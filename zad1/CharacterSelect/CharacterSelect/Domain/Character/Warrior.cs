@@ -11,5 +11,7 @@ public sealed class Warrior : Entity.Character
         Strength = 14;
         Intelligence = 6;
         Agility = 8;
+        Fun = 10;
+        Sadness = 30;
     }
 }
